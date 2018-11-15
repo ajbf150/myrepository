@@ -1,13 +1,15 @@
+/**Cookie Popup Code**/
+
 .cookie-notice-container {
-bottom: 16px; 
-left: 24px; 
-width: 384px; 
-border: 1px solid #dadada; 
--webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); 
-box-shadow: 0 0 8px rgba(0,0,0,0.1); 
-text-align: left; 
-padding: 16px; 
-position: fixed; 
-overflow: auto; 
-background: #fff; 
+  bottom: 16px; 
+  left: 24px; 
+  width: 384px; 
+  border: 1px solid #dadada; 
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); 
+  box-shadow: 0 0 8px rgba(0,0,0,0.1); 
+  text-align: left; 
+  padding: 16px; 
+  position: fixed; 
+  overflow: auto; 
+  background: #fff; 
 }
